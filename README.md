@@ -1,5 +1,5 @@
 
 # TODO
-[ ] Assignment template
-[ ] Add examples
+- [ ] Assignment template
+- [ ] Add examples
 
